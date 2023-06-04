@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Files/SE Btech/sem2/dsal/DSAL-code",
-      "program": "d:/Files/SE Btech/sem2/dsal/DSAL-code/build/Debug/outDebug",
+      "cwd": "d:/Files/SE Btech/sem2/dsal/DSAL-code-1",
+      "program": "d:/Files/SE Btech/sem2/dsal/DSAL-code-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
