@@ -55,7 +55,7 @@ class G_tree{
             cout<<"\t\tChapter name is:";
             cout<<root->next[i]->name<<endl;
           for(int j=0;j<root->next[i]->count;j++){
-              cout<<"\t\tSection name is:";
+              cout<<"\t\tSection name is:"<<endl;
                 cout<<root->next[i]->next[j]->name<<endl;
             for (int k = 0;k<root->next[i]->next[j]->count; k++){
               cout<<"\t\tSubsection name is:"; 
