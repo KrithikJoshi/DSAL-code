@@ -5,7 +5,7 @@ class flight
 { 	 
 	public:
 		int am[10][10];
-           	char city_index[10][10];
+        char city_index[10][10];
 		flight();
 	   	int create();
 	   	void display(int city_count);
@@ -43,7 +43,7 @@ int flight::create()
 		}
 		if(j==10)
 		{
-			strcpy(city_index[city_count],s);
+			strcpy (city_index[city_count],s);
 				city_count++;
 		}
 

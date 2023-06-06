@@ -7,7 +7,7 @@ class TelephoneBook {
     unordered_map<int, int> hashTable;
 
 public:
-    void insert(int phoneNumber) {
+    void insert( long int phoneNumber) {
         hashTable[phoneNumber] = phoneNumber;
     }
 
